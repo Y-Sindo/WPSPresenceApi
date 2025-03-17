@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using System.Text.Json;
 
-public static class PresenceClient
+public static class RestApiClient
 {
     private const string WpsResourceName = "YOUR_RESOURCE_NAME";
     private const string AccessKey = "YOUR_ACCESS_KEY";
